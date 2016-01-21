@@ -10,34 +10,34 @@ namespace codeEval_longestWord_20160118
     {
         static void Main(string[] args)
         {
-            string line = "fantassdfsdfi lines out dishes";
+            string line = "tragic lines buzzwords out dishes difficult";
             string[] allWords = line.Split(' ');
 
-            int maxWord = allWords[0].Length;
-           
+            //int maxWord = allWords[0].Length;
 
-            //for (int i = 1; i < allWords.Length; i++)
-            //{
-            //    int maxWord = allWords[0].Length;
-            //    if (allWords[i].Length > maxWord)
-            //    {
-            //        maxWord = allWords[i].Length;
+            int longestWord = Int32.MinValue;
+            int len = allWords.Length; //number of items in allWords array
+            
 
-            //    }
+            for (int i = 0; i < len; i ++)
+            {
+                if (allWords[i].Length > longestWord)
+                {
+                    longestWord = allWords[i].Length;
+                    //Console.WriteLine(allWords[i]);
+                }
+            }
 
+            for (int j = 0; j < allWords.Length; j ++)
+            {
+                if (allWords[j].Length == longestWord)
+                {
+                    Console.WriteLine(allWords[j]);
+                    break;
+                }
+            }
 
-            //    if (i == allWords.Length)
-            //    {
-            //        Console.WriteLine(allWords[i]);
-            //    }
-            //}
-
-
-
-
-
-            //string word = "hamburger";
-            //Console.WriteLine(word.Length);
+            Console.WriteLine("End of Program");
 
             Console.ReadKey();
             

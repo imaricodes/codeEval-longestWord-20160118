@@ -7,3 +7,9 @@
 C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\bin\Debug\codeEval-longestWord-20160118.exe.config
 C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\obj\Debug\codeEval-longestWord-20160118.exe
 C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\obj\Debug\codeEval-longestWord-20160118.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\bin\Debug\codeEval-longestWord-20160118.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\obj\Debug\codeEval-longestWord-20160118.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\obj\Debug\codeEval-longestWord-20160118.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\bin\Debug\codeEval-longestWord-20160118.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\bin\Debug\codeEval-longestWord-20160118.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-longestWord-20160118\codeEval-longestWord-20160118\obj\Debug\codeEval-longestWord-20160118.csprojResolveAssemblyReference.cache
